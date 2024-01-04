@@ -1,0 +1,24 @@
+.parent { 
+    margin: auto; 
+    background-color: rgb(134, 173, 224); 
+    color: rgba(124, 16, 65, 0.839); 
+    width: 20px ; 
+    height: 40px; 
+    padding: 50px; 
+} 
+.p-1 { 
+    margin: auto; 
+    background-color: rgb(247, 238, 140); 
+    color: rgba(114, 165, 42, 0.839); 
+    width: 15px ; 
+    height: 40px ; 
+    padding: 30px; 
+} 
+.p-2 { 
+margin: auto; 
+background-color: rgb(63, 23, 142); 
+width: 50px; 
+height: 20; 
+padding: 15px; 
+ 
+}
